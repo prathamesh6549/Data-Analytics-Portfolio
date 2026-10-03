@@ -1,0 +1,68 @@
+feature,bin,woe,points
+status,... < 100 DM,-0.817,16
+status,... >= 200 DM / salary for at least 1 year,0.381,42
+status,0 <= ... < 200 DM,-0.402,25
+status,no checking account,1.168,60
+credit_history,all credits at this bank paid back duly,-1.128,15
+credit_history,critical account/other credits existing,0.727,46
+credit_history,delay in paying off in the past,-0.094,33
+credit_history,existing credits paid back duly till now,-0.089,33
+credit_history,no credits taken/all credits paid back duly,-1.344,11
+duration,"(12.0, 15.0]",0.637,47
+duration,"(15.0, 24.0]",-0.102,32
+duration,"(24.0, 30.0]",-0.166,31
+duration,"(3.999, 12.0]",0.464,44
+duration,"(30.0, 72.0]",-0.766,19
+savings,... < 100 DM,-0.271,27
+savings,... >= 1000 DM,1.031,60
+savings,100 <= ... < 500 DM,-0.146,30
+savings,500 <= ... < 1000 DM,0.672,51
+savings,unknown/no savings account,0.693,52
+purpose,business,0.888,52
+purpose,car (new),-0.36,27
+purpose,car (used),0.752,49
+purpose,domestic appliances,0.405,42
+purpose,education,-0.312,28
+purpose,furniture/equipment,-0.536,24
+purpose,others,-0.236,30
+purpose,radio/television,-0.099,32
+purpose,repairs,-0.21,30
+purpose,retraining,-0.61,22
+property,building society savings agreement/life insurance,-0.032,34
+property,car or other,-0.036,34
+property,real estate,0.456,39
+property,unknown/no property,-0.587,27
+amount,"(1262.0, 1906.8]",0.293,37
+amount,"(1906.8, 2852.4]",0.142,36
+amount,"(249.999, 1262.0]",-0.02,34
+amount,"(2852.4, 4720.0]",0.193,36
+amount,"(4720.0, 18424.0]",-0.546,29
+employment_duration,... < 1 year,-0.472,23
+employment_duration,... >= 7 years,0.231,40
+employment_duration,1 <= ... < 4 years,-0.034,33
+employment_duration,4 <= ... < 7 years,0.386,43
+employment_duration,unemployed,-0.327,27
+housing,for free,-0.475,27
+housing,own,0.193,37
+housing,rent,-0.406,28
+age,"(18.999, 26.0]",-0.408,29
+age,"(26.0, 30.0]",-0.078,33
+age,"(30.0, 36.0]",0.198,37
+age,"(36.0, 45.0]",0.183,36
+age,"(45.0, 75.0]",0.231,37
+other_installment_plans,bank,-0.485,21
+other_installment_plans,none,0.121,37
+other_installment_plans,stores,-0.467,22
+personal_status_sex,female : divorced/separated/married,-0.236,29
+personal_status_sex,male : divorced/separated,-0.449,24
+personal_status_sex,male : married/widowed,0.127,37
+personal_status_sex,male : single,0.164,38
+foreign_worker,no,1.161,68
+foreign_worker,yes,-0.035,33
+other_debtors,co-applicant,-0.607,23
+other_debtors,guarantor,0.552,44
+other_debtors,none,0.0,34
+installment_rate,1,0.243,43
+installment_rate,2,0.151,40
+installment_rate,3,0.059,36
+installment_rate,4,-0.158,28

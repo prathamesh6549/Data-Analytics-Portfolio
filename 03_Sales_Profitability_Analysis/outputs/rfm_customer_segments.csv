@@ -1,0 +1,796 @@
+customer_name,recency,frequency,monetary,R,F,M,segment
+Aaron Bergman,583,5,11630.589999999998,1,2,2,Lost / low value
+Aaron Hawkins,368,9,27690.7255,1,3,4,Loyal - at risk
+Aaron Smayling,347,8,8835.3235,1,3,2,Needs attention
+Adam Bellavance,90,8,11577.58,3,3,2,Needs attention
+Adam Hart,20,18,26114.2645,4,4,4,Champions
+Adam Shillingsburg,508,10,20059.6755,1,4,3,Loyal - at risk
+Adrian Barton,217,2,23088.5345,2,1,3,Needs attention
+Adrian Hane,202,3,795.82,2,1,1,Lost / low value
+Adrian Shami,35,5,4615.54,4,2,1,Recent / promising
+Aimee Bixby,465,2,2913.65,1,1,1,Lost / low value
+Alan Barnes,86,10,17328.985500000003,3,4,3,Champions
+Alan Dominguez,316,5,16282.756500000001,1,2,3,Needs attention
+Alan Haines,4,8,28060.799,4,3,4,Champions
+Alan Hwang,50,17,26217.9035,4,4,4,Champions
+Alan Schoenberger,202,5,44571.925,2,2,4,Needs attention
+Alan Shonely,64,4,5907.208500000001,4,1,1,Recent / promising
+Alejandro Ballentine,362,5,15672.391500000002,1,2,3,Needs attention
+Alejandro Grove,121,9,83561.93,3,3,4,Champions
+Alejandro Savely,749,4,16337.61,1,1,3,Needs attention
+Aleksandra Gannaway,379,10,22097.627500000002,1,4,3,Loyal - at risk
+Alex Avila,22,9,19583.8605,4,3,3,Champions
+Alex Grayson,321,7,25658.761,1,3,4,Loyal - at risk
+Alex Russell,5,8,7813.323,4,3,2,Needs attention
+Alice McCarthy,257,7,12924.486,2,3,2,Needs attention
+Allen Armold,123,4,6410.46,3,1,1,Recent / promising
+Allen Golden,124,4,4582.392,3,1,1,Recent / promising
+Allen Rosenblatt,32,6,6367.8085,4,2,1,Recent / promising
+Alyssa Crouse,31,6,10921.692000000001,4,2,2,Recent / promising
+Alyssa Tate,326,5,1235.3125,1,2,1,Lost / low value
+Amy Cox,220,12,11448.06,2,4,2,Needs attention
+Amy Hunt,62,16,26205.389499999997,4,4,4,Champions
+Andrew Allen,333,5,8006.9605,1,2,2,Lost / low value
+Andrew Gjertsen,114,3,1406.3400000000001,3,1,1,Recent / promising
+Andrew Roberts,40,9,24823.956000000002,4,3,3,Champions
+Andy Gerbode,380,5,11498.087,1,2,2,Lost / low value
+Andy Reiter,145,6,37037.880000000005,3,2,4,Recent / promising
+Andy Yotov,873,3,2635.35,1,1,1,Lost / low value
+Anemone Ratner,88,6,11764.877499999999,3,2,2,Recent / promising
+Angele Hood,57,3,15650.15,4,1,3,Recent / promising
+Ann Blume,8,7,7060.98,4,3,1,Needs attention
+Ann Chong,303,3,7276.6235,2,1,1,Lost / low value
+Ann Steele,22,7,14490.0185,4,3,2,Needs attention
+Anna Andreadi,2,7,9639.532,4,3,2,Needs attention
+Anna Chung,120,3,1310.385,3,1,1,Recent / promising
+Anna Gayman,1055,3,1736.1284999999998,1,1,1,Lost / low value
+Anna Haberlin,489,4,10000.316499999999,1,1,2,Lost / low value
+Anne McFarland,305,2,459.93,2,1,1,Lost / low value
+Anne Pryor,166,12,27215.451,2,4,4,Loyal - at risk
+Annie Cyprus,488,4,6874.5905,1,1,1,Lost / low value
+Annie Thurman,10,12,16764.8725,4,4,3,Champions
+Anthony Garverick,682,7,12532.470500000001,1,3,2,Needs attention
+Anthony Jacobs,726,1,1029.47,1,1,1,Lost / low value
+Anthony Johnson,500,7,11276.62,1,3,2,Needs attention
+Anthony O'Donnell,100,8,25261.2195,3,3,3,Champions
+Anthony Rawles,67,10,33418.649,4,4,4,Champions
+Anthony Witt,7,4,11434.64,4,1,2,Recent / promising
+Arianne Irving,353,7,9516.262999999999,1,3,2,Needs attention
+Art Ferguson,29,7,23839.863999999998,4,3,3,Champions
+Art Foster,3,11,19002.9675,4,4,3,Champions
+Art Miller,259,8,25643.8315,2,3,4,Loyal - at risk
+Arthur Gainer,662,6,18765.065,1,2,3,Needs attention
+Arthur Prichep,77,10,24198.182,3,4,3,Champions
+Arthur Wiediger,117,3,13690.79,3,1,2,Recent / promising
+Ashley Jarboe,141,13,23835.046000000002,3,4,3,Champions
+Astrea Jones,203,8,7290.117,2,3,1,Needs attention
+Barbara Fisher,156,8,19473.143500000002,3,3,3,Champions
+Barry Blumstein,330,6,16694.448,1,2,3,Needs attention
+Barry Franz,116,6,24113.15,3,2,3,Recent / promising
+Barry French,91,3,15179.61,3,1,2,Recent / promising
+Barry Gonzalez,63,15,60682.967,4,4,4,Champions
+Barry Pond,192,5,4967.58,2,2,1,Lost / low value
+Barry Weirich,24,8,40124.99,4,3,4,Champions
+Bart Folk,44,4,3960.31,4,1,1,Recent / promising
+Bart Pistole,324,2,1220.1399999999999,1,1,1,Lost / low value
+Bart Watters,28,5,18834.2155,4,2,3,Recent / promising
+Becky Castell,125,4,6868.3105,3,1,1,Recent / promising
+Becky Martin,125,3,23289.899,3,1,3,Recent / promising
+Becky Pak,78,8,50378.1595,3,3,4,Champions
+Ben Ferrer,246,5,2977.9880000000003,2,2,1,Lost / low value
+Ben Peterman,64,5,14044.8845,4,2,2,Recent / promising
+Ben Wallace,387,7,29600.030000000002,1,3,4,Loyal - at risk
+Benjamin Farhat,49,7,23000.75,4,3,3,Champions
+Benjamin Patterson,69,8,9358.584499999999,4,3,2,Needs attention
+Benjamin Venier,232,9,42624.297,2,3,4,Loyal - at risk
+Berenike Kampe,303,5,11540.967,2,2,2,Lost / low value
+Beth Fritzler,407,4,15287.673,1,1,2,Lost / low value
+Beth Paige,581,4,7105.945,1,1,1,Lost / low value
+Beth Thompson,69,12,27214.947,4,4,4,Champions
+Bill Donatelli,79,14,33880.274,3,4,4,Champions
+Bill Eplett,134,14,28075.790999999997,3,4,4,Champions
+Bill Overfelt,220,7,24272.386000000002,2,3,3,Loyal - at risk
+Bill Shonely,95,7,16405.348,3,3,3,Champions
+Bill Stewart,99,4,4652.33,3,1,1,Recent / promising
+Bill Tyler,944,3,25276.14,1,1,3,Needs attention
+Bobby Elias,139,9,26977.4575,3,3,4,Champions
+Bobby Odegard,46,8,9969.365,4,3,2,Needs attention
+Bobby Trafton,22,11,31179.3485,4,4,4,Champions
+Brad Eason,84,7,7703.360000000001,3,3,2,Needs attention
+Brad Norvell,242,4,8982.561,2,1,2,Lost / low value
+Brad Thomas,4,24,36909.514,4,4,4,Champions
+Bradley Drucker,3,10,27911.61,4,4,4,Champions
+Bradley Nguyen,602,5,6970.43,1,2,1,Lost / low value
+Bradley Talbott,53,4,2655.2400000000002,4,1,1,Recent / promising
+Brenda Bowman,292,8,18873.73,2,3,3,Loyal - at risk
+Brendan Dodson,224,6,17576.67,2,2,3,Needs attention
+Brendan Murry,62,8,29294.96,4,3,4,Champions
+Brendan Sweed,157,7,23187.8,2,3,3,Loyal - at risk
+Brian Dahlen,267,4,8989.49,2,1,2,Lost / low value
+Brian DeCherney,144,6,3607.58,3,2,1,Recent / promising
+Brian Derr,278,2,12976.4,2,1,2,Lost / low value
+Brian Moss,302,8,11195.684,2,3,2,Needs attention
+Brian Stugart,119,10,25889.96,3,4,4,Champions
+Brian Thompson,538,4,1653.25,1,1,1,Lost / low value
+Brooke Gillingham,146,6,35679.28,3,2,4,Recent / promising
+Brosina Hoffman,452,3,24125.39,1,1,3,Needs attention
+Bruce Degenhardt,552,5,21475.2185,1,2,3,Needs attention
+Bruce Money,265,3,1167.03,2,1,1,Lost / low value
+Bruce Stewart,54,6,7739.62,4,2,2,Recent / promising
+Bryan Davis,148,3,2354.7,3,1,1,Recent / promising
+Bryan Mills,509,6,20691.289,1,2,3,Needs attention
+Bryan Spruell,39,8,7428.2390000000005,4,3,2,Needs attention
+Candace McMahon,258,8,3429.75,2,3,1,Needs attention
+Cari MacIntyre,27,9,35594.996,4,4,4,Champions
+Cari Sayre,215,11,50702.966499999995,2,4,4,Loyal - at risk
+Cari Schnelling,253,6,7915.03,2,2,2,Lost / low value
+Carl Jackson,40,4,14451.4165,4,1,2,Recent / promising
+Carl Ludwig,649,5,14143.66,1,2,2,Lost / low value
+Carl Weiss,521,9,27483.391,1,4,4,Loyal - at risk
+Carlos Daly,60,10,33724.7355,4,4,4,Champions
+Carlos Meador,283,12,30735.367,2,4,4,Loyal - at risk
+Carlos Soltero,62,20,55575.087999999996,4,4,4,Champions
+Carol Adams,267,4,5536.83,2,1,1,Lost / low value
+Carol Darley,20,6,9930.7515,4,2,2,Recent / promising
+Carol Triggs,92,9,7060.3395,3,4,1,Needs attention
+Caroline Jumper,106,9,19831.0765,3,4,3,Champions
+Cassandra Brandow,79,4,2985.56,3,1,1,Recent / promising
+Catherine Glotzbach,61,7,4412.021,4,3,1,Needs attention
+Cathy Armstrong,135,7,23102.8425,3,3,3,Champions
+Cathy Hwang,1187,2,4312.0335000000005,1,1,1,Lost / low value
+Cathy Prescott,616,4,23227.850000000002,1,1,3,Needs attention
+Chad Cunningham,436,4,1486.1,1,1,1,Lost / low value
+Chad McGuire,328,4,5121.92,1,1,1,Lost / low value
+Chad Sievert,64,6,29585.21,4,2,4,Recent / promising
+Charles Crestani,317,10,40030.8255,1,4,4,Loyal - at risk
+Charles McCrossin,188,5,25045.420000000002,2,2,3,Needs attention
+Charles Sheldon,717,3,16978.666,1,1,3,Needs attention
+Charlotte Melton,466,5,7188.12,1,2,1,Lost / low value
+Chloris Kastensmidt,1234,2,16178.89,1,1,3,Needs attention
+Chris Cortes,89,5,22077.733,3,2,3,Recent / promising
+Chris McAfee,714,2,350.18,1,1,1,Lost / low value
+Chris Selesnick,234,5,9718.648,2,2,2,Lost / low value
+Christina Anderson,239,5,25136.309999999998,2,2,3,Needs attention
+Christina DeMoss,280,5,17080.134,2,2,3,Needs attention
+Christina Vanderzanden,148,11,22776.318499999998,3,4,3,Champions
+Christine Abelman,68,9,45365.7505,4,4,4,Champions
+Christine Kargatis,481,2,293.21999999999997,1,1,1,Lost / low value
+Christine Phan,138,4,7719.012500000001,3,1,2,Recent / promising
+Christine Sundaresam,429,9,17420.85,1,4,3,Loyal - at risk
+Christopher Conant,119,8,9465.976,3,3,2,Needs attention
+Christopher Martinez,52,10,37289.066,4,4,4,Champions
+Christopher Schild,644,8,15970.5365,1,3,3,Loyal - at risk
+Christy Brittain,18,15,29061.8675,4,4,4,Champions
+Chuck Clark,112,11,36028.4065,3,4,4,Champions
+Chuck Magee,104,4,4466.26,3,1,1,Recent / promising
+Chuck Sachs,389,8,25904.601000000002,1,3,4,Loyal - at risk
+Cindy Chapman,6,14,27261.8975,4,4,4,Champions
+Cindy Schnelling,234,8,30487.0805,2,3,4,Loyal - at risk
+Cindy Stewart,123,8,12567.57,3,3,2,Needs attention
+Claire Good,308,6,8867.9435,2,2,2,Lost / low value
+Claudia Miner,149,6,4561.826,3,2,1,Recent / promising
+Clay Cheatham,65,5,42255.168000000005,4,2,4,Recent / promising
+Clay Ludtke,76,4,4428.0695,3,1,1,Recent / promising
+Clay Rozendal,540,4,6611.4365,1,1,1,Lost / low value
+Clytie Kelty,247,10,63189.95,2,4,4,Loyal - at risk
+Corey Catlett,201,5,16032.235,2,2,3,Needs attention
+Corey Lock,242,7,24161.9505,2,3,3,Loyal - at risk
+Corey Roper,303,3,4069.6359999999995,2,1,1,Lost / low value
+Corinna Mitchell,675,3,14938.990000000002,1,1,2,Lost / low value
+Craig Carreira,224,1,41343.21,2,1,4,Needs attention
+Craig Carroll,270,7,11493.13,2,3,2,Needs attention
+Craig Leslie,318,6,29497.484,1,2,4,Needs attention
+Craig Molinari,209,7,22570.3775,2,3,3,Loyal - at risk
+Craig Rider,656,2,8502.271999999999,1,1,2,Lost / low value
+Craig Yedwab,233,7,16360.872,2,3,3,Loyal - at risk
+Cyma Kinney,319,3,2310.23,1,1,1,Lost / low value
+Cynthia Arntzen,35,16,31607.476,4,4,4,Champions
+Cynthia Delaney,185,9,30848.0415,2,4,4,Loyal - at risk
+Cynthia Voltz,158,5,6031.7880000000005,2,2,1,Lost / low value
+Cyra Reiten,90,4,16834.37,3,1,3,Recent / promising
+Damala Kotsonis,70,7,22970.254,3,3,3,Champions
+Dan Campbell,88,10,28409.9345,3,4,4,Champions
+Dan Lawera,380,6,23104.170000000002,1,2,3,Needs attention
+Dan Reichenbach,462,4,3468.7299999999996,1,1,1,Lost / low value
+Dana Kaydos,109,5,20459.4895,3,2,3,Recent / promising
+Daniel Byrd,794,5,7865.08,1,2,2,Lost / low value
+Daniel Lacy,158,6,5489.998,2,2,1,Lost / low value
+Daniel Raglin,94,3,3321.86,3,1,1,Recent / promising
+Dario Medina,280,6,18937.420000000002,2,2,3,Needs attention
+Darren Budd,47,26,81577.3435,4,4,4,Champions
+Darren Koutras,64,3,2437.0595000000003,4,1,1,Recent / promising
+Darren Powers,6,9,9287.363,4,4,2,Needs attention
+Darrin Martin,273,4,2074.56,2,1,1,Lost / low value
+Darrin Sayre,297,7,23338.48,2,3,3,Loyal - at risk
+Darrin Van Huff,23,6,6043.025000000001,4,2,1,Recent / promising
+Dave Brooks,1024,4,15540.07,1,1,3,Needs attention
+Dave Hallsten,29,11,23588.04,4,4,3,Champions
+Dave Kipp,67,8,25402.173000000003,4,3,4,Champions
+Dave Poirier,165,10,29249.086,2,4,4,Loyal - at risk
+David Bremer,398,5,2209.332,1,2,1,Lost / low value
+David Flashing,119,6,9564.48,3,2,2,Recent / promising
+David Kendrick,268,8,14189.536,2,3,2,Needs attention
+David Philippe,58,9,15976.5345,4,4,3,Champions
+David Smith,309,4,3192.8705,2,1,1,Lost / low value
+David Wiener,711,4,3028.23,1,1,1,Lost / low value
+Dean Braden,659,2,5284.823,1,1,1,Lost / low value
+Dean Katz,358,5,11861.511999999999,1,2,2,Lost / low value
+Dean Percer,190,7,34987.7715,2,3,4,Loyal - at risk
+Deanra Eno,41,13,23201.28,4,4,3,Champions
+Deborah Brumfield,363,12,97433.1355,1,4,4,Loyal - at risk
+Debra Catini,71,8,8421.92,3,3,2,Needs attention
+Deirdre Greer,318,2,11346.6535,1,1,2,Lost / low value
+Delfina Latchford,664,5,3541.758,1,2,1,Lost / low value
+Denise Leinenbach,182,6,15413.949999999999,2,2,3,Needs attention
+Denise Monton,218,15,22513.17,2,4,3,Loyal - at risk
+Dennis Bolton,101,12,17099.94,3,4,3,Champions
+Dennis Kane,30,13,75967.59049999999,4,4,4,Champions
+Dennis Pardue,79,11,21372.9775,3,4,3,Champions
+Denny Blanton,503,4,12969.188,1,1,2,Lost / low value
+Denny Joy,268,5,23310.87,2,2,3,Needs attention
+Denny Ordway,62,7,12916.309,4,3,2,Needs attention
+Dianna Arnett,280,5,14132.789499999999,2,2,2,Lost / low value
+Dianna Vittorini,141,8,15314.538499999999,3,3,3,Champions
+Dianna Wilson,478,3,9611.36,1,1,2,Lost / low value
+Dionis Lloyd,144,7,11855.3475,3,3,2,Needs attention
+Don Jones,35,6,8399.321,4,2,2,Recent / promising
+Don Miller,149,7,11676.57,3,3,2,Needs attention
+Don Weiss,250,4,4208.048000000001,2,1,1,Lost / low value
+Dorothy Badders,455,5,17521.09,1,2,3,Needs attention
+Dorothy Dickinson,969,1,198.08,1,1,1,Lost / low value
+Dorothy Wardle,10,9,28598.5625,4,4,4,Champions
+Dorris Love,56,10,15867.250000000002,4,4,3,Champions
+Doug Bickford,46,14,41159.648,4,4,4,Champions
+Doug Jacobs,113,4,12966.237000000001,3,1,2,Recent / promising
+Doug O'Connell,149,3,721.65,3,1,1,Recent / promising
+Duane Benoit,42,8,20368.3545,4,3,3,Champions
+Duane Huffman,73,13,19668.1735,3,4,3,Champions
+Duane Noonan,26,5,30369.789999999997,4,2,4,Recent / promising
+Ed Braxton,24,22,75802.76,4,4,4,Champions
+Ed Jacobs,483,5,13887.6725,1,2,2,Lost / low value
+Ed Ludwig,172,7,18368.42,2,3,3,Loyal - at risk
+Edward Becker,451,13,18149.56,1,4,3,Loyal - at risk
+Edward Hooks,100,5,34532.76,3,2,4,Recent / promising
+Edward Nazzal,43,16,54511.8035,4,4,4,Champions
+Eileen Kiefer,455,5,9751.536,1,2,2,Lost / low value
+Eleni McCrary,124,7,30519.14,3,3,4,Champions
+Elizabeth Moffitt,613,6,6207.6449999999995,1,2,1,Lost / low value
+Ellis Ballard,390,6,25202.156499999997,1,2,3,Needs attention
+Elpida Rittenbach,511,5,9677.297999999999,1,2,2,Lost / low value
+Emily Burns,253,3,573.98,2,1,1,Lost / low value
+Emily Ducich,1095,2,26209.65,1,1,4,Needs attention
+Emily Grady,33,12,28774.013499999997,4,4,4,Champions
+Emily Phan,35,8,117124.43800000001,4,3,4,Champions
+Eric Barreto,218,17,24769.844,2,4,3,Loyal - at risk
+Eric Hoffmann,152,4,7300.165999999999,3,1,1,Recent / promising
+Eric Murdock,94,4,343.328,3,1,1,Recent / promising
+Erica Bern,146,12,60960.5295,3,4,4,Champions
+Erica Hackney,390,3,8608.35,1,1,2,Lost / low value
+Erica Hernandez,62,6,11552.286,4,2,2,Recent / promising
+Erica Smith,339,6,35703.914,1,2,4,Needs attention
+Erin Ashbrook,74,7,7588.141,3,3,2,Needs attention
+Erin Creighton,114,9,35725.0895,3,4,4,Champions
+Erin Mull,258,8,32279.0255,2,3,4,Loyal - at risk
+Erin Smith,217,4,7189.49,2,1,1,Lost / low value
+Eudokia Martin,221,4,7913.36,2,1,2,Lost / low value
+Eugene Barchas,233,7,22686.213,2,3,3,Loyal - at risk
+Eugene Hildebrand,232,6,21144.72,2,2,3,Needs attention
+Eugene Moren,281,10,20006.713,2,4,3,Loyal - at risk
+Eva Jacobs,136,9,24445.0125,3,4,3,Champions
+Evan Bailliet,354,6,3193.9425,1,2,1,Lost / low value
+Evan Henry,6,8,7909.8155,4,3,2,Needs attention
+Evan Minnotte,740,6,18286.059999999998,1,2,3,Needs attention
+Filia McAdams,43,6,29768.4295,4,2,4,Recent / promising
+Frank Atkinson,65,5,16155.5745,4,2,3,Recent / promising
+Frank Carlisle,175,3,2810.08,2,1,1,Lost / low value
+Frank Gastineau,287,4,14006.923999999999,2,1,2,Lost / low value
+Frank Hawley,248,7,34301.5175,2,3,4,Loyal - at risk
+Frank Merwin,282,12,35110.0595,2,4,4,Loyal - at risk
+Frank Olsen,163,3,1948.8899999999999,2,1,1,Lost / low value
+Frank Price,260,4,8811.6155,2,1,2,Lost / low value
+Fred Chung,188,5,4054.161,2,2,1,Lost / low value
+Fred Harton,85,9,20464.268,3,4,3,Champions
+Fred Hopkins,743,2,968.8689999999999,1,1,1,Lost / low value
+Fred McMath,116,9,25607.338000000003,3,4,4,Champions
+Fred Wasserman,476,7,7487.9580000000005,1,3,2,Needs attention
+Gary Hansen,361,3,2441.45,1,1,1,Lost / low value
+Gary Hwang,60,11,21771.254,4,4,3,Champions
+Gary McGarr,408,7,14519.9335,1,3,2,Needs attention
+Gary Mitchum,207,3,848.0699999999999,2,1,1,Lost / low value
+Gary Zandusky,66,7,18544.038,4,3,3,Champions
+Gene Hale,464,6,6647.6075,1,2,1,Lost / low value
+Gene McClure,408,6,7686.2,1,2,2,Lost / low value
+George Ashbrook,203,10,11322.7605,2,4,2,Needs attention
+George Bell,28,5,2952.9385,4,2,1,Recent / promising
+George Zrebassa,100,6,16325.09,3,2,3,Recent / promising
+Georgia Rosenberg,327,8,15647.49,1,3,3,Loyal - at risk
+Giulietta Baptist,67,5,6292.67,4,2,1,Recent / promising
+Giulietta Dortch,86,19,58679.845,3,4,4,Champions
+Giulietta Weimer,6,8,15839.2955,4,3,3,Champions
+Grace Kelly,388,4,3714.3465,1,1,1,Lost / low value
+Grant Carroll,50,17,88417.0025,4,4,4,Champions
+Grant Donatelli,110,4,15285.53,3,1,2,Recent / promising
+Grant Thornton,29,12,15596.5505,4,4,3,Champions
+Greg Guthrie,646,12,33090.42,1,4,4,Loyal - at risk
+Greg Hansen,282,5,14132.98,2,2,2,Lost / low value
+Greg Matthias,694,7,13256.2455,1,3,2,Needs attention
+Greg Maxwell,240,3,16229.687999999998,2,1,3,Needs attention
+Greg Tran,112,5,30119.413,3,2,4,Recent / promising
+Guy Armstrong,32,10,18803.822,4,4,3,Champions
+Guy Phonely,173,7,10399.8755,2,3,2,Needs attention
+Guy Thornton,182,7,18690.3785,2,3,3,Loyal - at risk
+Hallie Redmond,117,8,11546.658,3,3,2,Needs attention
+Harold Dahlen,233,15,46556.162,2,4,4,Loyal - at risk
+Harold Engle,219,12,52882.2825,2,4,4,Loyal - at risk
+Harold Pawlan,13,7,24331.446,4,3,3,Champions
+Harold Ryan,63,9,35884.06,4,4,4,Champions
+Harry Greene,175,3,11194.87,2,1,2,Lost / low value
+Harry Marie,158,5,15678.463,2,2,3,Needs attention
+Heather Jas,526,3,714.24,1,1,1,Lost / low value
+Heather Kirkland,291,4,17307.548,2,1,3,Needs attention
+Helen Abelman,462,5,15996.559500000001,1,2,3,Needs attention
+Helen Andreada,62,10,18378.804,4,4,3,Champions
+Helen Wasserman,188,14,44416.364,2,4,4,Loyal - at risk
+Henia Zydlo,61,4,12998.33,4,1,2,Recent / promising
+Henry Goldwyn,168,6,26629.809500000003,2,2,4,Needs attention
+Henry MacAllister,290,3,1348.4615,2,1,1,Lost / low value
+Herbert Flentye,755,3,4189.175,1,1,1,Lost / low value
+Hilary Holden,112,6,33997.323000000004,3,2,4,Recent / promising
+Hunter Glantz,283,2,6445.83,2,1,1,Lost / low value
+Hunter Lopez,51,4,16454.35,4,1,3,Recent / promising
+Ionia McGrath,33,13,42314.597499999996,4,4,4,Champions
+Irene Maddox,284,5,19836.305,2,2,3,Needs attention
+Ivan Gibson,75,3,706.88,3,1,1,Recent / promising
+Ivan Liston,62,8,38880.47,4,3,4,Champions
+Jack Garza,87,6,13571.349,3,2,2,Recent / promising
+Jack Lebron,28,14,51155.799,4,4,4,Champions
+Jack O'Briant,68,21,56974.694,4,4,4,Champions
+James Galang,268,8,17932.791,2,3,3,Loyal - at risk
+James Lanier,381,8,29846.969999999998,1,3,4,Loyal - at risk
+Jamie Frazer,382,4,3980.79,1,1,1,Lost / low value
+Jamie Kunitz,52,6,27842.06,4,2,4,Recent / promising
+Jane Waco,195,4,4598.5475,2,1,1,Lost / low value
+Janet Lee,200,7,21422.0875,2,3,3,Loyal - at risk
+Janet Martin,65,9,34383.84,4,4,4,Champions
+Janet Molinari,276,3,1348.64,2,1,1,Lost / low value
+Jas O'Carroll,409,10,18982.228499999997,1,4,3,Loyal - at risk
+Jason Fortune,605,4,22455.0155,1,1,3,Needs attention
+Jason Gross,597,2,1484.04,1,1,1,Lost / low value
+Jason Klamczynski,58,7,23074.469,4,3,3,Champions
+Jasper Cacioppo,168,7,61350.090000000004,2,3,4,Loyal - at risk
+Jay Fine,76,6,28113.7805,3,2,4,Recent / promising
+Jay Kimmel,252,3,16429.3,2,1,3,Needs attention
+Jenna Caffey,157,8,10648.5085,2,3,2,Needs attention
+Jennifer Braxton,185,6,13013.1375,2,2,2,Lost / low value
+Jennifer Ferguson,28,8,20998.6675,4,3,3,Champions
+Jennifer Halladay,16,5,17299.48,4,2,3,Recent / promising
+Jennifer Jackson,2,7,11314.66,4,3,2,Needs attention
+Jennifer Patt,121,10,42356.003,3,4,4,Champions
+Jeremy Ellison,63,3,5524.13,4,1,1,Recent / promising
+Jeremy Farry,250,2,85.72,2,1,1,Lost / low value
+Jeremy Lonsdale,509,7,19810.635500000004,1,3,3,Loyal - at risk
+Jeremy Pistek,16,8,6987.7705,4,3,1,Needs attention
+Jessica Myrick,247,6,10295.92,2,2,2,Lost / low value
+Jesus Ocampo,682,4,9561.57,1,1,2,Lost / low value
+Jill Fjeld,61,4,5215.4400000000005,4,1,1,Recent / promising
+Jill Matthias,70,7,13624.053,3,3,2,Needs attention
+Jill Stevenson,34,5,27256.4905,4,2,4,Recent / promising
+Jim Epp,1,12,32331.5135,4,4,4,Champions
+Jim Karlsson,66,7,20482.911,4,3,3,Champions
+Jim Kriz,251,9,19534.1595,2,4,3,Loyal - at risk
+Jim Mitchum,21,5,7852.3585,4,2,2,Recent / promising
+Jim Radford,260,7,35978.138999999996,2,3,4,Loyal - at risk
+Jim Sink,225,9,33491.987,2,4,4,Loyal - at risk
+Jocasta Rupert,241,3,24107.399999999998,2,1,3,Needs attention
+Joe Elijah,518,6,4138.4285,1,2,1,Lost / low value
+Joe Kamberova,513,2,5761.31,1,1,1,Lost / low value
+Joel Eaton,45,6,8024.3595,4,2,2,Recent / promising
+Joel Jenkins,608,3,865.26,1,1,1,Lost / low value
+John Castell,143,11,34824.3215,3,4,4,Champions
+John Dryer,821,8,11427.09,1,3,2,Needs attention
+John Grady,328,3,1764.71,1,1,1,Lost / low value
+John Huston,234,2,4039.1000000000004,2,1,1,Lost / low value
+John Lee,272,10,22803.96,2,4,3,Loyal - at risk
+John Lucas,29,14,79696.1875,4,4,4,Champions
+John Murray,73,7,37036.0265,3,3,4,Champions
+John Stevenson,304,4,48660.873,2,1,4,Needs attention
+Jonathan Doherty,20,14,37345.1535,4,4,4,Champions
+Jonathan Howell,335,5,2835.7165,1,2,1,Lost / low value
+Joni Blumstein,13,14,22179.0535,4,4,3,Champions
+Joni Sundaresam,103,3,650.77,3,1,1,Recent / promising
+Joni Wasserman,28,8,6869.836,4,3,1,Needs attention
+Joseph Airdo,248,12,15920.8105,2,4,3,Loyal - at risk
+Joseph Holt,491,3,9426.5,1,1,2,Lost / low value
+Joy Bell,85,6,22948.7625,3,2,3,Recent / promising
+Joy Daniels,7,3,4697.7235,4,1,1,Recent / promising
+Joy Smith,177,16,40768.833,2,4,4,Loyal - at risk
+Julia Barnett,19,12,80044.452,4,4,4,Champions
+Julia Dunbar,203,9,20868.0975,2,4,3,Loyal - at risk
+Julia West,203,9,44021.42,2,4,4,Loyal - at risk
+Juliana Krohn,69,8,46672.009,4,3,4,Champions
+Julie Creighton,87,5,4143.558,3,2,1,Recent / promising
+Julie Kriz,276,6,35294.479999999996,2,2,4,Needs attention
+Julie Prescott,304,6,20917.49,2,2,3,Needs attention
+Justin Deggeller,437,3,3600.1440000000002,1,1,1,Lost / low value
+Justin Ellison,247,6,25264.15,2,2,3,Needs attention
+Justin Hirsh,163,11,12303.6725,2,4,2,Needs attention
+Justin Knight,383,8,18807.251,1,3,3,Loyal - at risk
+Justin MacKendrick,151,4,37675.81,3,1,4,Recent / promising
+Kalyca Meade,409,4,1661.21,1,1,1,Lost / low value
+Karen Bern,494,3,1563.7075,1,1,1,Lost / low value
+Karen Carlisle,205,11,59313.323,2,4,4,Loyal - at risk
+Karen Daniels,412,4,13235.8,1,1,2,Lost / low value
+Karen Ferguson,75,5,13649.0635,3,2,2,Recent / promising
+Karen Seio,142,6,24491.428,3,2,3,Recent / promising
+Karl Brown,132,14,44992.831,3,4,4,Champions
+Katharine Harms,312,3,20914.09,1,1,3,Needs attention
+Katherine Ducich,125,4,4159.3485,3,1,1,Recent / promising
+Katherine Hughes,66,6,13096.347,4,2,2,Recent / promising
+Katherine Murray,212,4,19712.9755,2,1,3,Needs attention
+Katherine Nockton,185,11,25005.516,2,4,3,Loyal - at risk
+Katrina Bavinger,33,5,22584.1505,4,2,3,Recent / promising
+Katrina Edelman,574,2,180.76000000000002,1,1,1,Lost / low value
+Katrina Willman,207,7,25168.8965,2,3,3,Loyal - at risk
+Kean Nguyen,159,7,9277.925000000001,2,3,2,Needs attention
+Kean Takahito,998,2,7570.142,1,1,2,Lost / low value
+Kean Thornton,12,6,6832.89,4,2,1,Recent / promising
+Keith Dawkins,304,13,16010.503499999999,2,4,3,Loyal - at risk
+Keith Herrera,356,4,11261.0755,1,1,2,Lost / low value
+Kelly Andreada,77,8,17624.8235,3,3,3,Champions
+Kelly Collister,523,3,471.81000000000006,1,1,1,Lost / low value
+Kelly Lampkin,286,7,10990.5905,2,3,2,Needs attention
+Kelly Williams,41,9,16900.5895,4,4,3,Champions
+Ken Black,92,4,2521.81,3,1,1,Recent / promising
+Ken Brennan,172,7,23058.260000000002,2,3,3,Loyal - at risk
+Ken Dana,93,8,25530.4675,3,3,4,Champions
+Ken Heidel,15,7,24303.194,4,3,3,Champions
+Ken Lonsdale,60,10,17304.675499999998,4,4,3,Champions
+Khloe Miller,76,12,22488.41,3,4,3,Champions
+Kimberly Carter,418,8,14097.117,1,3,2,Needs attention
+Kristen Hastings,358,4,15895.72,1,1,3,Needs attention
+Kristina Nunn,156,7,14244.1795,3,3,2,Needs attention
+Larry Blacks,37,3,2556.21,4,1,1,Recent / promising
+Larry Hughes,527,3,1993.067,1,1,1,Lost / low value
+Larry Tron,88,11,24029.357500000002,3,4,3,Champions
+Laura Armstrong,131,7,12394.490000000002,3,3,2,Needs attention
+Laurel Beltran,264,4,4531.912,2,1,1,Lost / low value
+Laurel Elliston,74,9,28981.8145,3,4,4,Champions
+Laurel Workman,20,4,21138.760000000002,4,1,3,Recent / promising
+Lauren Leatherbury,37,15,34621.9395,4,4,4,Champions
+Lela Donovan,90,9,38012.0305,3,4,4,Champions
+Lena Cacioppo,758,4,2939.316,1,1,1,Lost / low value
+Lena Creighton,10,15,48460.135,4,4,4,Champions
+Lena Hernandez,106,4,7008.4265000000005,3,1,1,Recent / promising
+Lena Radford,4,7,5169.2175,4,3,1,Needs attention
+Linda Cazamias,1200,2,12119.77,1,1,2,Lost / low value
+Linda Southworth,233,10,26407.6725,2,4,4,Loyal - at risk
+Lindsay Castell,223,8,16702.97,2,3,3,Loyal - at risk
+Lindsay Shagiari,64,5,6084.9265,4,2,1,Recent / promising
+Lindsay Williams,110,3,8598.7135,3,1,2,Recent / promising
+Lisa DeCherney,11,13,67914.0005,4,4,4,Champions
+Lisa Hazard,46,6,11459.3025,4,2,2,Recent / promising
+Lisa Ryan,23,3,3489.29,4,1,1,Recent / promising
+Liz Carlisle,56,9,12282.804,4,4,2,Needs attention
+Liz MacKendrick,182,14,76306.4315,2,4,4,Loyal - at risk
+Liz Pelletier,264,9,16967.415,2,4,3,Loyal - at risk
+Liz Price,54,13,23662.4305,4,4,3,Champions
+Liz Thompson,139,4,506.8,3,1,1,Recent / promising
+Liz Willingham,74,10,33230.628,3,4,4,Champions
+Logan Currie,439,3,8520.4,1,1,2,Lost / low value
+Logan Haushalter,2,12,50662.9455,4,4,4,Champions
+Lori Olson,170,4,3194.0299999999997,2,1,1,Lost / low value
+Luke Foster,91,4,21231.0,3,1,3,Recent / promising
+Luke Schmidt,160,11,27762.451999999997,2,4,4,Loyal - at risk
+Luke Weiss,20,7,15534.386,4,3,3,Champions
+Lycoris Saunders,3,13,46429.649999999994,4,4,4,Champions
+Lynn Smith,616,7,5371.4,1,3,1,Needs attention
+Magdelene Morse,187,8,30412.951,2,3,4,Loyal - at risk
+Marc Crier,55,14,34298.65,4,4,4,Champions
+Marc Harrigan,1063,3,3628.6805000000004,1,1,1,Lost / low value
+Maria Bertelson,304,15,29606.0065,2,4,4,Loyal - at risk
+Maria Etezadi,1243,1,1219.2485,1,1,1,Lost / low value
+Maria Zettner,120,8,19871.816,3,3,3,Champions
+Maribeth Dona,207,6,37359.520000000004,2,2,4,Needs attention
+Maribeth Schnelling,126,4,1722.5100000000002,3,1,1,Recent / promising
+Maribeth Yedwab,1,7,10653.8195,4,3,2,Needs attention
+Marina Lichtenstein,156,4,3238.911,3,1,1,Recent / promising
+Maris LaWare,410,2,5062.991999999999,1,1,1,Lost / low value
+Mark Cousins,165,18,70579.72750000001,2,4,4,Loyal - at risk
+Mark Haberlin,182,4,3728.5860000000002,2,1,1,Lost / low value
+Mark Hamilton,385,1,450.99,1,1,1,Lost / low value
+Mark Packer,673,7,9782.5655,1,3,2,Needs attention
+Mark Van Huff,362,3,13864.7975,1,1,2,Lost / low value
+Mary O'Rourke,604,3,4110.91,1,1,1,Lost / low value
+Mary Zewe,78,3,23190.2165,3,1,3,Recent / promising
+MaryBeth Skach,152,6,14278.497,3,2,2,Recent / promising
+Mathew Reese,206,9,25012.9705,2,4,3,Loyal - at risk
+Matt Abelman,141,12,60962.347,3,4,4,Champions
+Matt Collins,668,5,10578.3685,1,2,2,Lost / low value
+Matt Collister,292,10,23724.928,2,4,3,Loyal - at risk
+Matt Connell,77,7,23881.36,3,3,3,Champions
+Matt Hagelstein,1,3,683.8999999999999,4,1,1,Recent / promising
+Matthew Clasen,141,3,775.9499999999999,3,1,1,Recent / promising
+Matthew Grinstein,64,10,38698.7895,4,4,4,Champions
+Maureen Fritzler,258,6,12873.3755,2,2,2,Lost / low value
+Maureen Gastineau,108,7,29885.510000000002,3,3,4,Champions
+Maureen Grace,947,1,3681.7495,1,1,1,Lost / low value
+Maurice Satty,7,4,555.82,4,1,1,Recent / promising
+Max Engle,361,6,2681.0225,1,2,1,Lost / low value
+Max Jones,88,10,29810.989999999998,3,4,4,Champions
+Max Ludwig,727,4,10922.702,1,1,2,Lost / low value
+Maxwell Schwartz,149,11,30928.836499999998,3,4,4,Champions
+Maya Herman,110,7,7274.6065,3,3,1,Needs attention
+Meg O'Connel,56,11,30557.7815,4,4,4,Champions
+Meg Tillman,169,8,29898.234500000002,2,3,4,Loyal - at risk
+Melanie Page,390,5,19415.425,1,2,3,Needs attention
+Michael Chen,381,4,25141.737,1,1,3,Needs attention
+Michael Dominguez,81,16,18670.6405,3,4,3,Champions
+Michael Grace,16,8,10884.82,4,3,2,Needs attention
+Michael Granlund,131,8,10476.986499999999,3,3,2,Needs attention
+Michael Kennedy,187,5,6339.3115,2,2,1,Lost / low value
+Michael Moore,127,5,15077.853,3,2,2,Recent / promising
+Michael Nguyen,657,3,17409.38,1,1,3,Needs attention
+Michael Oakman,31,11,47040.004,4,4,4,Champions
+Michael Paige,83,5,9111.51,3,2,2,Recent / promising
+Michael Stewart,132,5,6140.259,3,2,1,Recent / promising
+Michelle Arnett,67,7,11529.583499999999,4,3,2,Needs attention
+Michelle Ellison,148,12,34308.89,3,4,4,Champions
+Michelle Huthwaite,196,7,13895.8125,2,3,2,Needs attention
+Michelle Lonsdale,38,9,34524.2525,4,4,4,Champions
+Michelle Moray,276,9,33055.1975,2,4,4,Loyal - at risk
+Michelle Tran,144,10,10174.2555,3,4,2,Needs attention
+Mick Brown,875,4,14156.22,1,2,2,Lost / low value
+Mick Crebagga,21,12,31042.314,4,4,4,Champions
+Mick Hernandez,204,3,793.38,2,1,1,Lost / low value
+Mike Caudle,260,4,19580.65,2,2,3,Needs attention
+Mike Gockenbach,476,6,10820.539999999999,1,2,2,Lost / low value
+Mike Kennedy,135,10,16929.76,3,4,3,Champions
+Mike Pelletier,110,6,17243.277,3,2,3,Recent / promising
+Mike Vittorini,139,8,20601.493,3,3,3,Champions
+Mitch Gastineau,91,8,48521.1685,3,3,4,Champions
+Mitch Webber,433,5,13806.53,1,2,2,Lost / low value
+Mitch Willingham,171,7,30525.550000000003,2,3,4,Loyal - at risk
+Monica Federle,55,7,6626.16,4,3,1,Needs attention
+Muhammed Lee,76,7,27109.49,3,3,4,Champions
+Muhammed MacIntyre,121,8,8796.42,3,3,2,Needs attention
+Muhammed Yedwab,35,16,62544.0205,4,4,4,Champions
+Nancy Lomonaco,591,6,20751.6195,1,2,3,Needs attention
+Naresj Patel,118,8,27886.420000000002,3,3,4,Champions
+Nat Carroll,21,7,8415.2545,4,3,2,Needs attention
+Nat Gilpin,246,7,6346.413500000001,2,3,1,Needs attention
+Natalie DeCherney,931,1,125.9,1,1,1,Lost / low value
+Natalie Fritzler,228,2,3005.61,2,1,1,Lost / low value
+Natalie Webber,27,15,13564.495,4,4,2,Needs attention
+Nathan Cano,174,5,4284.06,2,2,1,Lost / low value
+Nathan Gelder,147,5,14532.89,3,2,2,Recent / promising
+Nathan Mautz,42,17,54917.7325,4,4,4,Champions
+Neil Ducich,836,4,4263.9580000000005,1,2,1,Lost / low value
+Neil French,155,8,19448.710499999997,3,3,3,Champions
+Neil Knudson,55,14,29858.367,4,4,4,Champions
+Neola Schneider,581,4,6013.87,1,2,1,Lost / low value
+Neoma Murray,22,4,19406.442000000003,4,2,3,Recent / promising
+Nick Crebassa,92,8,45458.407,3,3,4,Champions
+Nick Radford,138,5,12877.18,3,2,2,Recent / promising
+Nick Zandusky,568,7,14815.813,1,3,2,Needs attention
+Nicole Brennan,108,15,44184.6035,3,4,4,Champions
+Nicole Fjeld,852,2,153.03,1,1,1,Lost / low value
+Nicole Hansen,241,8,20471.19,2,3,3,Loyal - at risk
+Noah Childs,379,3,7636.6225,1,1,2,Lost / low value
+Noel Staavos,248,12,59092.098,2,4,4,Loyal - at risk
+Nona Balk,155,6,14075.318500000001,3,2,2,Recent / promising
+Nora Paige,5,11,17197.7,4,4,3,Champions
+Nora Pelletier,92,8,22648.883,3,3,3,Champions
+Nora Price,15,18,25399.844,4,4,3,Champions
+Odella Nelson,68,9,13080.812,4,4,2,Needs attention
+Olvera Toch,312,7,24633.7035,1,3,3,Loyal - at risk
+Pamela Coakley,167,2,564.7035,2,1,1,Lost / low value
+Pamela Stobb,63,5,13306.16,4,2,2,Recent / promising
+Parhena Norris,164,4,31955.079,2,2,4,Needs attention
+Patricia Hirasaki,163,3,2576.17,2,1,1,Lost / low value
+Patrick Bzostek,108,6,35495.4365,3,2,4,Recent / promising
+Patrick Gardner,276,5,15785.506499999998,2,2,3,Needs attention
+Patrick Jones,51,17,35186.024,4,4,4,Champions
+Patrick O'Brill,289,7,8970.3945,2,3,2,Needs attention
+Patrick O'Donnell,25,8,13551.109999999999,4,3,2,Needs attention
+Patrick Ryan,69,12,23111.3105,4,4,3,Champions
+Paul Gonzalez,665,2,567.89,1,1,1,Lost / low value
+Paul Knutson,64,7,26188.544500000004,4,3,4,Champions
+Paul Lucas,803,4,1911.6100000000001,1,2,1,Lost / low value
+Paul MacIntyre,170,6,13812.44,2,2,2,Lost / low value
+Paul Prost,649,8,4487.6995,1,3,1,Needs attention
+Paul Stevenson,201,4,15715.4345,2,2,3,Needs attention
+Paul Van Hugh,302,4,40839.29,2,2,4,Needs attention
+Pauline Chand,43,14,38343.6275,4,4,4,Champions
+Pauline Johnson,1041,3,6044.71,1,1,1,Lost / low value
+Pauline Webber,97,9,26405.7275,3,4,4,Champions
+Penelope Sewall,104,7,14089.9085,3,3,2,Needs attention
+Pete Armstrong,175,5,13712.1675,2,2,2,Lost / low value
+Pete Kriz,881,2,604.79,1,1,1,Lost / low value
+Pete Takahito,51,5,8694.495,4,2,2,Recent / promising
+Peter Buhler,134,5,9281.88,3,2,2,Recent / promising
+Peter Fuller,353,11,54715.744,1,4,4,Loyal - at risk
+Peter McVee,107,3,2910.13,3,1,1,Recent / promising
+Philip Brown,70,12,64716.796500000004,3,4,4,Champions
+Philip Fox,19,5,13433.4105,4,2,2,Recent / promising
+Philisse Overcash,408,2,8396.5,1,1,2,Lost / low value
+Phillina Ober,308,6,2157.49,2,2,1,Lost / low value
+Phillip Breyer,75,4,2899.5400000000004,3,2,1,Recent / promising
+Phillip Flathmann,130,9,16286.2955,3,4,3,Champions
+Pierre Wener,102,6,4751.86,3,2,1,Recent / promising
+Quincy Jones,2,19,48398.567,4,4,4,Champions
+Rachel Payne,113,7,18434.280000000002,3,3,3,Champions
+Ralph Arnett,391,7,8292.69,1,3,2,Needs attention
+Ralph Kennedy,51,12,21329.728,4,4,3,Champions
+Ralph Knight,358,7,10174.915,1,3,2,Needs attention
+Randy Bradley,143,6,18407.059999999998,3,2,3,Recent / promising
+Randy Ferguson,222,9,20332.1235,2,4,3,Loyal - at risk
+Raymond Book,59,11,70426.59,4,4,4,Champions
+Raymond Fair,134,8,8270.075,3,3,2,Needs attention
+Resi Polking,277,9,18598.788,2,4,3,Loyal - at risk
+Ricardo Block,636,5,16004.68,1,2,3,Needs attention
+Ricardo Emerson,16,4,19562.370000000003,4,2,3,Recent / promising
+Richard Bierner,139,5,7103.9495,3,2,1,Recent / promising
+Richard Eichhorn,8,4,11783.849999999999,4,2,2,Recent / promising
+Rick Bensley,99,6,20704.2195,3,2,3,Recent / promising
+Rick Duston,103,6,30727.311,3,2,4,Recent / promising
+Rick Hansen,9,10,9250.624,4,4,2,Needs attention
+Rick Huthwaite,538,2,415.82000000000005,1,1,1,Lost / low value
+Rick Reed,1431,2,32088.420000000002,1,1,4,Needs attention
+Rick Wilson,21,14,58024.7515,4,4,4,Champions
+Ritsa Hightower,65,8,54630.1045,4,3,4,Champions
+Rob Beeghly,399,4,9664.17,1,2,2,Lost / low value
+Rob Dowd,109,8,16448.427499999998,3,3,3,Champions
+Rob Haberlin,89,16,39069.3685,3,4,4,Champions
+Rob Lucas,263,2,5395.09,2,1,1,Lost / low value
+Rob Williams,143,4,3592.922,3,2,1,Recent / promising
+Robert Barroso,612,5,34398.05,1,2,4,Needs attention
+Robert Dilbeck,216,5,6232.9,2,2,1,Lost / low value
+Robert Marley,327,7,5860.3745,1,3,1,Needs attention
+Robert Waldorf,480,5,9698.114,1,2,2,Lost / low value
+Roger Barcio,659,3,1533.01,1,1,1,Lost / low value
+Roger Demir,258,6,20742.67,2,2,3,Needs attention
+Roland Black,4,6,14228.586000000001,4,2,2,Recent / promising
+Roland Fjeld,121,5,2804.93,3,2,1,Recent / promising
+Roland Murray,98,4,781.02,3,2,1,Recent / promising
+Rose O'Brian,80,4,8584.655,3,2,2,Recent / promising
+Ross Baird,826,4,5602.6345,1,2,1,Lost / low value
+Ross DeVincentis,342,2,25583.82,1,1,4,Needs attention
+Roy Collins,176,9,11626.160000000002,2,4,2,Needs attention
+Roy French,486,5,15290.047999999999,1,2,3,Needs attention
+Roy Phan,100,12,46546.165,3,4,4,Champions
+Roy Skaria,27,18,92542.153,4,4,4,Champions
+Ruben Ausman,12,4,17061.5965,4,2,3,Recent / promising
+Ruben Dartt,237,7,46399.438,2,3,4,Loyal - at risk
+Russell Applegate,202,7,32583.0165,2,3,4,Loyal - at risk
+Russell D'Ascenzo,161,4,928.0025,2,2,1,Lost / low value
+Ryan Akin,641,3,4327.8555,1,1,1,Lost / low value
+Ryan Crowe,29,6,8069.1415,4,2,2,Recent / promising
+Sally Hughsby,135,16,22820.146,3,4,3,Champions
+Sally Knutson,102,15,38449.29,3,4,4,Champions
+Sally Matthias,214,8,40273.752,2,3,4,Loyal - at risk
+Sam Craven,240,6,6401.41,2,2,1,Lost / low value
+Sam Zeldin,763,4,1290.002,1,2,1,Lost / low value
+Sample Company A,425,1,2484.7455,1,1,1,Lost / low value
+Sandra Flanagan,107,7,13796.525,3,3,2,Needs attention
+Sandra Glassco,30,9,25908.939,4,4,4,Champions
+Sanjit Chand,40,8,40353.994,4,3,4,Champions
+Sanjit Engle,14,3,1896.7,4,1,1,Recent / promising
+Sanjit Jacobs,455,8,15371.42,1,3,3,Loyal - at risk
+Saphhira Shifley,83,11,13576.1455,3,4,2,Needs attention
+Sara Luxemburg,277,12,16316.5715,2,4,3,Loyal - at risk
+Sarah Bern,183,5,629.7,2,2,1,Lost / low value
+Sarah Brown,27,9,10778.6705,4,4,2,Needs attention
+Sarah Foster,412,5,10735.5655,1,2,2,Lost / low value
+Sarah Jordon,102,5,8199.34,3,2,2,Recent / promising
+Scot Coram,159,6,16775.2625,2,3,3,Loyal - at risk
+Scot Wooten,33,3,1635.65,4,1,1,Recent / promising
+Scott Cohen,119,9,29811.3505,3,4,4,Champions
+Scott Williamson,377,2,852.11,1,1,1,Lost / low value
+Sean Braxton,278,6,17969.387000000002,2,3,3,Loyal - at risk
+Sean Christensen,484,6,12361.165500000001,1,3,2,Needs attention
+Sean Miller,22,6,28271.0575,4,3,4,Champions
+Sean O'Donnell,108,10,11506.3625,3,4,2,Needs attention
+Sean Wendt,167,8,18947.68,2,3,3,Loyal - at risk
+Seth Vernon,302,6,38977.811,2,3,4,Loyal - at risk
+Shahid Collister,290,2,11728.453,2,1,2,Lost / low value
+Shahid Hopkins,133,6,4605.224,3,3,1,Needs attention
+Shahid Shariari,39,14,29786.8295,4,4,4,Champions
+Sharelle Roach,797,3,4735.263999999999,1,1,1,Lost / low value
+Shaun Chance,437,9,12748.137999999999,1,4,2,Needs attention
+Shaun Weien,235,4,11813.18,2,2,2,Lost / low value
+Sheri Gordon,72,6,22900.1275,3,3,3,Champions
+Shirley Daniels,105,2,12897.490000000002,3,1,2,Recent / promising
+Shirley Jackson,448,5,5333.764,1,2,1,Lost / low value
+Shirley Schmidt,2,3,7054.7155,4,1,1,Recent / promising
+Shui Tom,252,4,27672.440000000002,2,2,4,Needs attention
+Sibella Parks,124,10,17557.869,3,4,3,Champions
+Skye Norling,346,5,11710.830000000002,1,2,2,Lost / low value
+Sonia Cooley,131,5,10086.07,3,2,2,Recent / promising
+Sonia Sunley,189,16,44248.829,2,4,4,Loyal - at risk
+Speros Goranitis,85,7,12539.34,3,3,2,Needs attention
+Stefania Perrino,111,5,12332.5095,3,2,2,Recent / promising
+Stefanie Holloman,510,2,8451.078,1,1,2,Lost / low value
+Stephanie Phelps,33,6,25071.544,4,3,3,Champions
+Stephanie Ulpright,92,5,27898.8725,3,2,4,Recent / promising
+Steve Carroll,150,5,7032.479,3,2,1,Recent / promising
+Steve Chapman,54,8,42872.99,4,3,4,Champions
+Steve Nguyen,45,13,23642.811999999998,4,4,3,Champions
+Steven Cartwright,227,4,3821.6980000000003,2,2,1,Lost / low value
+Steven Roelle,153,6,21108.357500000002,3,3,3,Champions
+Steven Ward,401,7,20241.5,1,3,3,Loyal - at risk
+Stewart Carmichael,734,2,1134.88,1,1,1,Lost / low value
+Stewart Visinsky,99,6,8284.9355,3,3,2,Needs attention
+Stuart Calhoun,470,6,18745.6415,1,3,3,Loyal - at risk
+Stuart Van,18,5,14040.89,4,2,2,Recent / promising
+Sue Ann Reed,386,5,6922.817,1,2,1,Lost / low value
+Sung Chung,21,4,9900.2845,4,2,2,Recent / promising
+Sung Pak,10,8,20346.156000000003,4,3,3,Champions
+Sung Shariari,181,7,4984.61,2,3,1,Needs attention
+Susan Gilcrest,504,3,5709.4845000000005,1,1,1,Lost / low value
+Susan MacKendrick,733,3,24129.84,1,1,3,Needs attention
+Susan Pistek,154,6,9169.238,3,3,2,Needs attention
+Susan Vittorini,106,11,19146.37,3,4,3,Champions
+Suzanne McNair,117,8,21327.178,3,3,3,Champions
+Sylvia Foulston,80,18,88875.7575,3,4,4,Champions
+Tamara Chand,198,5,7676.209999999999,2,2,2,Lost / low value
+Tamara Dahlen,295,7,27294.229,2,3,4,Loyal - at risk
+Tamara Manning,42,7,33139.6535,4,3,4,Champions
+Tamara Willingham,278,10,30495.554,2,4,4,Loyal - at risk
+Tanja Norvell,106,15,37446.559,3,4,4,Champions
+Ted Butterfield,1072,1,2531.272,1,1,1,Lost / low value
+Ted Trevino,246,5,8520.814,2,2,2,Lost / low value
+Thais Sissman,262,12,22675.454999999998,2,4,3,Loyal - at risk
+Thea Hendricks,119,5,7459.0475,3,2,2,Recent / promising
+Thea Hudgings,15,8,8085.06,4,3,2,Needs attention
+Theone Pippenger,88,7,15223.730000000001,3,3,2,Needs attention
+Theresa Coyne,53,3,8019.349999999999,4,1,2,Recent / promising
+Theresa Swint,1,13,13119.31,4,4,2,Needs attention
+Thomas Boland,206,7,14160.6725,2,3,2,Needs attention
+Thomas Brumley,143,5,8819.5645,3,2,2,Recent / promising
+Thomas Seio,630,3,12864.07,1,1,2,Lost / low value
+Thomas Thornton,203,7,11081.0615,2,3,2,Needs attention
+Tiffany House,887,1,617.92,1,1,1,Lost / low value
+Tim Brockman,747,7,23653.516499999998,1,3,3,Loyal - at risk
+Tim Taslimi,126,6,12331.7925,3,3,2,Needs attention
+Toby Braunhardt,1234,1,1060.342,1,1,1,Lost / low value
+Toby Carlisle,106,6,15070.041,3,3,2,Needs attention
+Toby Grace,98,5,18129.8615,3,2,3,Recent / promising
+Toby Knight,320,4,4873.847,1,2,1,Lost / low value
+Toby Swindell,324,7,13089.786,1,3,2,Needs attention
+Todd Boyes,109,9,33070.6105,3,4,4,Champions
+Todd Sumrall,373,2,3226.9795,1,1,1,Lost / low value
+Tom Ashbrook,689,3,12422.871,1,1,2,Lost / low value
+Tom Boeckenhauer,74,7,10719.979,3,3,2,Needs attention
+Tom Prescott,50,11,8761.64,4,4,2,Needs attention
+Tom Stivers,238,10,16842.6915,2,4,3,Loyal - at risk
+Tom Zandusky,36,3,5186.99,4,1,1,Recent / promising
+Tonja Turnell,106,11,45788.67,3,4,4,Champions
+Tony Chapman,284,5,41020.627,2,2,4,Needs attention
+Tony Molinari,1,6,12002.08,4,3,2,Needs attention
+Tony Sayre,15,16,29860.555,4,4,4,Champions
+Tracy Blumstein,318,5,13049.6585,1,2,2,Lost / low value
+Tracy Collins,204,11,28834.656,2,4,4,Loyal - at risk
+Tracy Hopkins,287,5,11853.5175,2,2,2,Lost / low value
+Tracy Poddar,113,10,9212.673999999999,3,4,2,Needs attention
+Tracy Zic,42,4,19018.65,4,2,3,Recent / promising
+Troy Blackwell,93,9,26184.5915,3,4,4,Champions
+Troy Staebel,133,7,8422.81,3,3,2,Needs attention
+Trudy Bell,514,8,3948.658,1,3,1,Needs attention
+Trudy Brown,626,6,4784.589999999999,1,3,1,Needs attention
+Trudy Schmidt,203,5,5428.99,2,2,1,Lost / low value
+Valerie Dominguez,136,7,7052.120000000001,3,3,1,Needs attention
+Valerie Mitchum,98,4,12911.4315,3,2,2,Recent / promising
+Valerie Takahito,99,11,39517.0705,3,4,4,Champions
+Vicky Freymann,123,6,20949.488,3,3,3,Champions
+Victor Price,190,5,6329.3885,2,2,1,Lost / low value
+Victoria Brennan,140,8,9011.42,3,3,2,Needs attention
+Victoria Pisteka,266,10,19614.363,2,4,3,Loyal - at risk
+Victoria Wilson,109,8,42960.68,3,3,4,Champions
+Vivek Gonzalez,395,5,7054.69,1,2,1,Lost / low value
+Vivek Grady,41,12,27147.0255,4,4,4,Champions
+Vivek Sundaresam,17,8,12155.528,4,3,2,Needs attention
+Vivian Mathis,55,11,29420.89,4,4,4,Champions
+William Brown,11,15,38872.590000000004,4,4,4,Champions
+Xylona Price,25,7,18037.0855,4,3,3,Champions
+Yana Sorensen,133,6,1987.1599999999999,3,3,1,Needs attention
+Yoseph Carroll,74,7,10535.318,3,3,2,Needs attention

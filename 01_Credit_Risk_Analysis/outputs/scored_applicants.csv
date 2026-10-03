@@ -1,0 +1,1001 @@
+score,risk_band,default
+557.0,A (very low risk),0
+486.0,D (high),1
+573.0,A (very low risk),0
+488.0,D (high),0
+466.0,E (very high risk),1
+521.0,C (medium),0
+570.0,A (very low risk),0
+496.0,D (high),0
+599.0,A (very low risk),0
+485.0,E (very high risk),1
+476.0,E (very high risk),1
+444.0,E (very high risk),1
+517.0,C (medium),0
+500.0,D (high),1
+488.0,D (high),0
+492.0,D (high),1
+586.0,A (very low risk),0
+458.0,E (very high risk),0
+486.0,D (high),1
+580.0,A (very low risk),0
+551.0,B (low),0
+540.0,B (low),0
+543.0,B (low),0
+539.0,B (low),0
+619.0,A (very low risk),0
+504.0,D (high),0
+534.0,B (low),0
+542.0,B (low),0
+541.0,B (low),0
+473.0,E (very high risk),1
+513.0,C (medium),0
+480.0,E (very high risk),0
+495.0,D (high),0
+571.0,A (very low risk),0
+491.0,D (high),0
+481.0,E (very high risk),1
+496.0,D (high),0
+501.0,D (high),1
+532.0,B (low),0
+513.0,C (medium),0
+551.0,B (low),0
+526.0,C (medium),0
+501.0,D (high),0
+519.0,C (medium),0
+463.0,E (very high risk),1
+533.0,B (low),0
+558.0,A (very low risk),0
+524.0,C (medium),0
+558.0,A (very low risk),0
+537.0,B (low),0
+491.0,D (high),0
+523.0,C (medium),0
+551.0,B (low),0
+585.0,A (very low risk),0
+452.0,E (very high risk),1
+550.0,B (low),0
+535.0,B (low),1
+522.0,C (medium),0
+506.0,D (high),0
+426.0,E (very high risk),1
+503.0,D (high),0
+582.0,A (very low risk),0
+449.0,E (very high risk),1
+456.0,E (very high risk),1
+514.0,C (medium),0
+551.0,B (low),0
+526.0,C (medium),0
+530.0,C (medium),0
+476.0,E (very high risk),1
+536.0,B (low),0
+514.0,C (medium),0
+587.0,A (very low risk),0
+484.0,E (very high risk),0
+488.0,D (high),0
+488.0,D (high),1
+520.0,C (medium),0
+474.0,E (very high risk),1
+533.0,B (low),0
+542.0,B (low),0
+488.0,D (high),0
+554.0,B (low),1
+570.0,A (very low risk),0
+515.0,C (medium),0
+493.0,D (high),0
+529.0,C (medium),0
+557.0,A (very low risk),0
+487.0,D (high),0
+467.0,E (very high risk),1
+491.0,D (high),0
+482.0,E (very high risk),1
+576.0,A (very low risk),0
+542.0,B (low),0
+571.0,A (very low risk),1
+523.0,C (medium),0
+549.0,B (low),0
+434.0,E (very high risk),1
+572.0,A (very low risk),0
+497.0,D (high),0
+518.0,C (medium),0
+524.0,C (medium),0
+531.0,C (medium),0
+486.0,D (high),0
+547.0,B (low),0
+522.0,C (medium),0
+569.0,A (very low risk),0
+494.0,D (high),1
+496.0,D (high),1
+518.0,C (medium),0
+532.0,B (low),0
+560.0,A (very low risk),0
+502.0,D (high),0
+480.0,E (very high risk),0
+494.0,D (high),0
+492.0,D (high),1
+553.0,B (low),0
+578.0,A (very low risk),0
+499.0,D (high),1
+546.0,B (low),0
+509.0,C (medium),1
+544.0,B (low),0
+494.0,D (high),1
+549.0,B (low),0
+540.0,B (low),0
+521.0,C (medium),0
+494.0,D (high),1
+503.0,D (high),0
+510.0,C (medium),0
+498.0,D (high),1
+533.0,B (low),0
+496.0,D (high),1
+504.0,D (high),0
+438.0,E (very high risk),1
+528.0,C (medium),0
+498.0,D (high),0
+534.0,B (low),0
+591.0,A (very low risk),0
+581.0,A (very low risk),0
+545.0,B (low),1
+568.0,A (very low risk),0
+529.0,C (medium),0
+588.0,A (very low risk),0
+456.0,E (very high risk),0
+500.0,D (high),0
+491.0,D (high),1
+517.0,C (medium),0
+472.0,E (very high risk),0
+510.0,C (medium),0
+553.0,B (low),0
+494.0,D (high),0
+595.0,A (very low risk),0
+542.0,B (low),0
+602.0,A (very low risk),0
+495.0,D (high),0
+542.0,B (low),0
+491.0,D (high),0
+486.0,D (high),1
+577.0,A (very low risk),0
+488.0,D (high),0
+499.0,D (high),0
+612.0,A (very low risk),0
+577.0,A (very low risk),0
+514.0,C (medium),0
+576.0,A (very low risk),0
+469.0,E (very high risk),0
+542.0,B (low),0
+582.0,A (very low risk),0
+470.0,E (very high risk),1
+520.0,C (medium),0
+527.0,C (medium),0
+505.0,D (high),1
+471.0,E (very high risk),1
+529.0,C (medium),0
+489.0,D (high),1
+569.0,A (very low risk),0
+471.0,E (very high risk),1
+521.0,C (medium),1
+496.0,D (high),0
+551.0,B (low),0
+554.0,B (low),0
+505.0,D (high),0
+496.0,D (high),1
+465.0,E (very high risk),1
+489.0,D (high),1
+582.0,A (very low risk),0
+493.0,D (high),1
+570.0,A (very low risk),0
+477.0,E (very high risk),1
+498.0,D (high),0
+511.0,C (medium),1
+464.0,E (very high risk),0
+574.0,A (very low risk),1
+455.0,E (very high risk),1
+493.0,D (high),1
+566.0,A (very low risk),0
+489.0,D (high),1
+522.0,C (medium),1
+569.0,A (very low risk),0
+461.0,E (very high risk),1
+512.0,C (medium),0
+481.0,E (very high risk),1
+575.0,A (very low risk),0
+492.0,D (high),0
+531.0,C (medium),0
+509.0,C (medium),1
+563.0,A (very low risk),0
+506.0,D (high),0
+567.0,A (very low risk),0
+522.0,C (medium),0
+466.0,E (very high risk),0
+647.0,A (very low risk),0
+611.0,A (very low risk),0
+567.0,A (very low risk),0
+446.0,E (very high risk),1
+522.0,C (medium),1
+573.0,A (very low risk),0
+579.0,A (very low risk),0
+465.0,E (very high risk),0
+519.0,C (medium),0
+473.0,E (very high risk),0
+542.0,B (low),0
+496.0,D (high),0
+470.0,E (very high risk),0
+536.0,B (low),0
+559.0,A (very low risk),0
+567.0,A (very low risk),0
+488.0,D (high),0
+506.0,D (high),1
+482.0,E (very high risk),1
+556.0,B (low),1
+436.0,E (very high risk),0
+502.0,D (high),1
+564.0,A (very low risk),0
+567.0,A (very low risk),0
+510.0,C (medium),0
+593.0,A (very low risk),0
+473.0,E (very high risk),1
+522.0,C (medium),1
+465.0,E (very high risk),1
+558.0,A (very low risk),0
+527.0,C (medium),0
+483.0,E (very high risk),1
+572.0,A (very low risk),0
+459.0,E (very high risk),1
+552.0,B (low),0
+565.0,A (very low risk),0
+534.0,B (low),0
+576.0,A (very low risk),0
+520.0,C (medium),0
+522.0,C (medium),0
+509.0,C (medium),1
+551.0,B (low),0
+531.0,C (medium),0
+460.0,E (very high risk),1
+546.0,B (low),0
+547.0,B (low),0
+527.0,C (medium),0
+559.0,A (very low risk),0
+456.0,E (very high risk),1
+554.0,B (low),0
+557.0,A (very low risk),0
+513.0,C (medium),0
+496.0,D (high),0
+490.0,D (high),0
+523.0,C (medium),0
+604.0,A (very low risk),0
+525.0,C (medium),1
+559.0,A (very low risk),0
+507.0,C (medium),0
+532.0,B (low),1
+563.0,A (very low risk),0
+596.0,A (very low risk),0
+580.0,A (very low risk),0
+444.0,E (very high risk),0
+504.0,D (high),1
+459.0,E (very high risk),1
+573.0,A (very low risk),0
+549.0,B (low),0
+527.0,C (medium),0
+539.0,B (low),1
+532.0,B (low),0
+600.0,A (very low risk),0
+549.0,B (low),0
+525.0,C (medium),0
+592.0,A (very low risk),0
+482.0,E (very high risk),0
+463.0,E (very high risk),0
+486.0,D (high),0
+460.0,E (very high risk),0
+522.0,C (medium),0
+474.0,E (very high risk),1
+582.0,A (very low risk),0
+484.0,E (very high risk),1
+502.0,D (high),0
+513.0,C (medium),0
+524.0,C (medium),0
+464.0,E (very high risk),1
+564.0,A (very low risk),0
+594.0,A (very low risk),0
+543.0,B (low),0
+560.0,A (very low risk),0
+541.0,B (low),0
+461.0,E (very high risk),1
+545.0,B (low),1
+504.0,D (high),0
+521.0,C (medium),1
+568.0,A (very low risk),0
+546.0,B (low),0
+492.0,D (high),1
+502.0,D (high),1
+488.0,D (high),0
+461.0,E (very high risk),0
+504.0,D (high),0
+498.0,D (high),0
+498.0,D (high),1
+587.0,A (very low risk),0
+447.0,E (very high risk),1
+518.0,C (medium),0
+527.0,C (medium),0
+544.0,B (low),0
+511.0,C (medium),0
+492.0,D (high),1
+473.0,E (very high risk),1
+509.0,C (medium),0
+516.0,C (medium),0
+533.0,B (low),0
+571.0,A (very low risk),0
+584.0,A (very low risk),0
+561.0,A (very low risk),0
+517.0,C (medium),0
+519.0,C (medium),0
+499.0,D (high),0
+530.0,C (medium),1
+447.0,E (very high risk),1
+514.0,C (medium),1
+440.0,E (very high risk),1
+508.0,C (medium),1
+516.0,C (medium),0
+500.0,D (high),1
+483.0,E (very high risk),0
+495.0,D (high),0
+460.0,E (very high risk),0
+486.0,D (high),0
+522.0,C (medium),0
+494.0,D (high),0
+534.0,B (low),0
+560.0,A (very low risk),0
+529.0,C (medium),0
+506.0,D (high),0
+565.0,A (very low risk),0
+532.0,B (low),1
+523.0,C (medium),0
+543.0,B (low),1
+584.0,A (very low risk),0
+467.0,E (very high risk),1
+545.0,B (low),0
+461.0,E (very high risk),1
+607.0,A (very low risk),0
+520.0,C (medium),1
+551.0,B (low),0
+475.0,E (very high risk),1
+492.0,D (high),0
+578.0,A (very low risk),0
+508.0,C (medium),0
+541.0,B (low),0
+473.0,E (very high risk),1
+564.0,A (very low risk),0
+575.0,A (very low risk),0
+466.0,E (very high risk),0
+480.0,E (very high risk),1
+504.0,D (high),0
+543.0,B (low),0
+562.0,A (very low risk),0
+540.0,B (low),0
+530.0,C (medium),0
+426.0,E (very high risk),1
+460.0,E (very high risk),1
+551.0,B (low),0
+574.0,A (very low risk),0
+461.0,E (very high risk),1
+543.0,B (low),0
+521.0,C (medium),0
+481.0,E (very high risk),1
+536.0,B (low),0
+508.0,C (medium),0
+535.0,B (low),0
+549.0,B (low),0
+533.0,B (low),0
+480.0,E (very high risk),0
+538.0,B (low),0
+547.0,B (low),0
+534.0,B (low),0
+523.0,C (medium),0
+457.0,E (very high risk),0
+538.0,B (low),0
+562.0,A (very low risk),0
+475.0,E (very high risk),0
+475.0,E (very high risk),0
+494.0,D (high),0
+505.0,D (high),1
+583.0,A (very low risk),0
+543.0,B (low),0
+517.0,C (medium),0
+504.0,D (high),1
+535.0,B (low),0
+522.0,C (medium),0
+502.0,D (high),1
+595.0,A (very low risk),0
+535.0,B (low),0
+558.0,A (very low risk),0
+565.0,A (very low risk),1
+496.0,D (high),0
+559.0,A (very low risk),0
+532.0,B (low),1
+589.0,A (very low risk),0
+499.0,D (high),1
+560.0,A (very low risk),0
+489.0,D (high),1
+484.0,E (very high risk),0
+550.0,B (low),0
+505.0,D (high),1
+570.0,A (very low risk),0
+546.0,B (low),0
+541.0,B (low),0
+550.0,B (low),0
+522.0,C (medium),1
+510.0,C (medium),0
+556.0,B (low),0
+590.0,A (very low risk),0
+558.0,A (very low risk),0
+474.0,E (very high risk),1
+571.0,A (very low risk),0
+462.0,E (very high risk),1
+490.0,D (high),0
+531.0,C (medium),0
+504.0,D (high),0
+552.0,B (low),1
+570.0,A (very low risk),0
+575.0,A (very low risk),0
+466.0,E (very high risk),0
+481.0,E (very high risk),1
+545.0,B (low),0
+488.0,D (high),0
+480.0,E (very high risk),0
+521.0,C (medium),1
+488.0,D (high),1
+557.0,A (very low risk),0
+451.0,E (very high risk),1
+545.0,B (low),0
+562.0,A (very low risk),0
+533.0,B (low),1
+562.0,A (very low risk),0
+551.0,B (low),0
+540.0,B (low),0
+555.0,B (low),0
+486.0,D (high),1
+518.0,C (medium),0
+515.0,C (medium),0
+514.0,C (medium),1
+477.0,E (very high risk),0
+539.0,B (low),0
+498.0,D (high),0
+505.0,D (high),0
+493.0,D (high),0
+557.0,A (very low risk),0
+524.0,C (medium),0
+499.0,D (high),0
+466.0,E (very high risk),1
+545.0,B (low),0
+511.0,C (medium),0
+566.0,A (very low risk),0
+489.0,D (high),1
+460.0,E (very high risk),1
+488.0,D (high),1
+580.0,A (very low risk),0
+516.0,C (medium),1
+444.0,E (very high risk),1
+551.0,B (low),0
+502.0,D (high),0
+529.0,C (medium),0
+522.0,C (medium),0
+534.0,B (low),0
+471.0,E (very high risk),0
+508.0,C (medium),0
+582.0,A (very low risk),0
+577.0,A (very low risk),0
+495.0,D (high),1
+565.0,A (very low risk),0
+496.0,D (high),0
+581.0,A (very low risk),0
+543.0,B (low),0
+570.0,A (very low risk),0
+456.0,E (very high risk),1
+569.0,A (very low risk),0
+547.0,B (low),0
+545.0,B (low),0
+515.0,C (medium),1
+438.0,E (very high risk),1
+554.0,B (low),0
+528.0,C (medium),0
+538.0,B (low),0
+459.0,E (very high risk),1
+485.0,E (very high risk),0
+546.0,B (low),0
+486.0,D (high),1
+444.0,E (very high risk),1
+570.0,A (very low risk),1
+594.0,A (very low risk),0
+493.0,D (high),1
+537.0,B (low),0
+537.0,B (low),0
+499.0,D (high),1
+530.0,C (medium),0
+531.0,C (medium),0
+492.0,D (high),0
+541.0,B (low),0
+540.0,B (low),0
+549.0,B (low),0
+500.0,D (high),1
+509.0,C (medium),0
+579.0,A (very low risk),0
+530.0,C (medium),0
+497.0,D (high),1
+436.0,E (very high risk),1
+552.0,B (low),0
+502.0,D (high),0
+503.0,D (high),0
+544.0,B (low),0
+593.0,A (very low risk),0
+461.0,E (very high risk),1
+494.0,D (high),0
+491.0,D (high),0
+499.0,D (high),1
+555.0,B (low),0
+546.0,B (low),0
+548.0,B (low),0
+495.0,D (high),1
+505.0,D (high),0
+514.0,C (medium),0
+435.0,E (very high risk),1
+493.0,D (high),0
+511.0,C (medium),1
+516.0,C (medium),0
+511.0,C (medium),1
+530.0,C (medium),1
+561.0,A (very low risk),0
+471.0,E (very high risk),1
+529.0,C (medium),0
+544.0,B (low),0
+461.0,E (very high risk),1
+571.0,A (very low risk),0
+573.0,A (very low risk),0
+562.0,A (very low risk),0
+516.0,C (medium),1
+505.0,D (high),0
+497.0,D (high),0
+498.0,D (high),1
+457.0,E (very high risk),1
+508.0,C (medium),1
+467.0,E (very high risk),1
+516.0,C (medium),1
+503.0,D (high),0
+467.0,E (very high risk),1
+506.0,D (high),0
+493.0,D (high),1
+502.0,D (high),0
+502.0,D (high),0
+503.0,D (high),1
+606.0,A (very low risk),0
+527.0,C (medium),0
+476.0,E (very high risk),1
+456.0,E (very high risk),1
+552.0,B (low),0
+546.0,B (low),0
+481.0,E (very high risk),0
+519.0,C (medium),0
+537.0,B (low),0
+532.0,B (low),0
+558.0,A (very low risk),0
+463.0,E (very high risk),1
+534.0,B (low),0
+512.0,C (medium),1
+510.0,C (medium),0
+523.0,C (medium),0
+453.0,E (very high risk),1
+544.0,B (low),0
+465.0,E (very high risk),1
+515.0,C (medium),0
+502.0,D (high),0
+487.0,D (high),1
+527.0,C (medium),1
+526.0,C (medium),0
+497.0,D (high),0
+550.0,B (low),0
+473.0,E (very high risk),1
+478.0,E (very high risk),1
+467.0,E (very high risk),1
+467.0,E (very high risk),1
+492.0,D (high),1
+545.0,B (low),1
+527.0,C (medium),0
+528.0,C (medium),0
+493.0,D (high),1
+437.0,E (very high risk),1
+505.0,D (high),1
+499.0,D (high),0
+475.0,E (very high risk),0
+555.0,B (low),0
+459.0,E (very high risk),1
+536.0,B (low),0
+562.0,A (very low risk),0
+475.0,E (very high risk),1
+517.0,C (medium),1
+491.0,D (high),0
+504.0,D (high),0
+530.0,C (medium),1
+473.0,E (very high risk),0
+502.0,D (high),0
+517.0,C (medium),0
+473.0,E (very high risk),1
+527.0,C (medium),0
+525.0,C (medium),0
+532.0,B (low),1
+515.0,C (medium),1
+464.0,E (very high risk),0
+480.0,E (very high risk),1
+588.0,A (very low risk),0
+541.0,B (low),0
+500.0,D (high),1
+560.0,A (very low risk),0
+585.0,A (very low risk),0
+496.0,D (high),0
+453.0,E (very high risk),1
+529.0,C (medium),0
+508.0,C (medium),1
+473.0,E (very high risk),1
+525.0,C (medium),0
+563.0,A (very low risk),0
+535.0,B (low),0
+535.0,B (low),0
+478.0,E (very high risk),1
+461.0,E (very high risk),1
+514.0,C (medium),0
+546.0,B (low),1
+574.0,A (very low risk),0
+520.0,C (medium),0
+511.0,C (medium),1
+477.0,E (very high risk),0
+558.0,A (very low risk),1
+482.0,E (very high risk),1
+477.0,E (very high risk),1
+450.0,E (very high risk),0
+507.0,C (medium),1
+482.0,E (very high risk),1
+492.0,D (high),1
+571.0,A (very low risk),0
+481.0,E (very high risk),0
+491.0,D (high),1
+540.0,B (low),0
+470.0,E (very high risk),0
+513.0,C (medium),0
+531.0,C (medium),0
+508.0,C (medium),1
+543.0,B (low),0
+485.0,E (very high risk),0
+529.0,C (medium),0
+485.0,E (very high risk),0
+495.0,D (high),0
+490.0,D (high),0
+494.0,D (high),1
+542.0,B (low),0
+549.0,B (low),0
+534.0,B (low),0
+524.0,C (medium),0
+581.0,A (very low risk),0
+531.0,C (medium),1
+537.0,B (low),0
+544.0,B (low),0
+492.0,D (high),1
+484.0,E (very high risk),0
+528.0,C (medium),0
+523.0,C (medium),0
+560.0,A (very low risk),0
+545.0,B (low),0
+527.0,C (medium),0
+502.0,D (high),0
+514.0,C (medium),0
+580.0,A (very low risk),0
+467.0,E (very high risk),0
+560.0,A (very low risk),0
+542.0,B (low),0
+503.0,D (high),0
+506.0,D (high),0
+507.0,C (medium),0
+541.0,B (low),0
+547.0,B (low),0
+585.0,A (very low risk),0
+572.0,A (very low risk),0
+548.0,B (low),0
+547.0,B (low),0
+516.0,C (medium),0
+543.0,B (low),1
+487.0,D (high),1
+508.0,C (medium),0
+487.0,D (high),0
+474.0,E (very high risk),0
+554.0,B (low),0
+484.0,E (very high risk),1
+450.0,E (very high risk),1
+511.0,C (medium),0
+534.0,B (low),0
+567.0,A (very low risk),0
+450.0,E (very high risk),1
+585.0,A (very low risk),0
+517.0,C (medium),0
+470.0,E (very high risk),1
+600.0,A (very low risk),0
+592.0,A (very low risk),0
+525.0,C (medium),0
+569.0,A (very low risk),0
+485.0,E (very high risk),0
+504.0,D (high),1
+459.0,E (very high risk),1
+480.0,E (very high risk),1
+536.0,B (low),0
+512.0,C (medium),1
+573.0,A (very low risk),0
+605.0,A (very low risk),0
+456.0,E (very high risk),1
+438.0,E (very high risk),1
+561.0,A (very low risk),0
+504.0,D (high),0
+497.0,D (high),1
+531.0,C (medium),0
+571.0,A (very low risk),0
+571.0,A (very low risk),0
+450.0,E (very high risk),0
+495.0,D (high),1
+493.0,D (high),0
+561.0,A (very low risk),0
+448.0,E (very high risk),1
+473.0,E (very high risk),0
+480.0,E (very high risk),0
+572.0,A (very low risk),0
+475.0,E (very high risk),0
+511.0,C (medium),0
+492.0,D (high),0
+480.0,E (very high risk),0
+488.0,D (high),1
+573.0,A (very low risk),0
+585.0,A (very low risk),0
+491.0,D (high),0
+468.0,E (very high risk),1
+508.0,C (medium),0
+539.0,B (low),0
+563.0,A (very low risk),1
+493.0,D (high),1
+589.0,A (very low risk),0
+567.0,A (very low risk),1
+554.0,B (low),0
+512.0,C (medium),1
+585.0,A (very low risk),0
+479.0,E (very high risk),1
+501.0,D (high),0
+543.0,B (low),1
+547.0,B (low),0
+528.0,C (medium),0
+474.0,E (very high risk),1
+577.0,A (very low risk),0
+530.0,C (medium),0
+591.0,A (very low risk),0
+527.0,C (medium),0
+454.0,E (very high risk),1
+583.0,A (very low risk),0
+548.0,B (low),0
+531.0,C (medium),0
+487.0,D (high),1
+535.0,B (low),0
+505.0,D (high),0
+580.0,A (very low risk),0
+489.0,D (high),0
+528.0,C (medium),1
+584.0,A (very low risk),0
+524.0,C (medium),0
+461.0,E (very high risk),1
+531.0,C (medium),0
+527.0,C (medium),0
+579.0,A (very low risk),0
+579.0,A (very low risk),0
+456.0,E (very high risk),1
+443.0,E (very high risk),1
+501.0,D (high),1
+580.0,A (very low risk),0
+589.0,A (very low risk),0
+497.0,D (high),0
+546.0,B (low),0
+522.0,C (medium),0
+534.0,B (low),1
+530.0,C (medium),0
+555.0,B (low),0
+524.0,C (medium),0
+525.0,C (medium),0
+516.0,C (medium),0
+505.0,D (high),0
+596.0,A (very low risk),0
+509.0,C (medium),0
+476.0,E (very high risk),1
+545.0,B (low),0
+601.0,A (very low risk),0
+451.0,E (very high risk),0
+466.0,E (very high risk),1
+498.0,D (high),0
+528.0,C (medium),0
+499.0,D (high),1
+480.0,E (very high risk),1
+462.0,E (very high risk),1
+465.0,E (very high risk),0
+572.0,A (very low risk),0
+566.0,A (very low risk),0
+439.0,E (very high risk),0
+478.0,E (very high risk),1
+544.0,B (low),0
+534.0,B (low),0
+476.0,E (very high risk),1
+517.0,C (medium),0
+528.0,C (medium),0
+498.0,D (high),0
+488.0,D (high),1
+504.0,D (high),1
+507.0,C (medium),1
+481.0,E (very high risk),0
+552.0,B (low),0
+444.0,E (very high risk),1
+449.0,E (very high risk),1
+533.0,B (low),0
+528.0,C (medium),1
+454.0,E (very high risk),1
+559.0,A (very low risk),0
+525.0,C (medium),0
+524.0,C (medium),0
+554.0,B (low),0
+473.0,E (very high risk),1
+542.0,B (low),0
+505.0,D (high),1
+506.0,D (high),0
+522.0,C (medium),0
+543.0,B (low),0
+547.0,B (low),1
+514.0,C (medium),0
+533.0,B (low),0
+504.0,D (high),1
+514.0,C (medium),1
+603.0,A (very low risk),0
+553.0,B (low),0
+458.0,E (very high risk),1
+524.0,C (medium),0
+524.0,C (medium),0
+586.0,A (very low risk),0
+538.0,B (low),0
+492.0,D (high),1
+589.0,A (very low risk),0
+588.0,A (very low risk),0
+524.0,C (medium),1
+483.0,E (very high risk),1
+556.0,B (low),0
+527.0,C (medium),1
+556.0,B (low),0
+459.0,E (very high risk),0
+559.0,A (very low risk),0
+548.0,B (low),0
+478.0,E (very high risk),0
+547.0,B (low),0
+596.0,A (very low risk),0
+509.0,C (medium),0
+545.0,B (low),0
+496.0,D (high),0
+540.0,B (low),0
+433.0,E (very high risk),0
+531.0,C (medium),0
+472.0,E (very high risk),1
+593.0,A (very low risk),0
+558.0,A (very low risk),0
+547.0,B (low),0
+540.0,B (low),0
+537.0,B (low),0
+499.0,D (high),1
+468.0,E (very high risk),1
+535.0,B (low),0
+478.0,E (very high risk),1
+526.0,C (medium),0
+534.0,B (low),0
+488.0,D (high),0
+577.0,A (very low risk),0
+525.0,C (medium),0
+514.0,C (medium),0
+573.0,A (very low risk),0
+556.0,B (low),0
+465.0,E (very high risk),0
+634.0,A (very low risk),0
+567.0,A (very low risk),0
+487.0,D (high),1
+498.0,D (high),1
+556.0,B (low),0
+567.0,A (very low risk),0
+576.0,A (very low risk),0
+554.0,B (low),0
+507.0,C (medium),0
+550.0,B (low),0
+505.0,D (high),0
+559.0,A (very low risk),0
+539.0,B (low),0
+524.0,C (medium),0
+471.0,E (very high risk),1
+532.0,B (low),0
+583.0,A (very low risk),0
+458.0,E (very high risk),1
+471.0,E (very high risk),1
+572.0,A (very low risk),0
+486.0,D (high),1
+485.0,E (very high risk),1
+484.0,E (very high risk),1
+525.0,C (medium),0
+554.0,B (low),0
+482.0,E (very high risk),1
+508.0,C (medium),0
+434.0,E (very high risk),1
+448.0,E (very high risk),1
+462.0,E (very high risk),0
+461.0,E (very high risk),1
+573.0,A (very low risk),0
+499.0,D (high),0
+494.0,D (high),0
+492.0,D (high),1
+558.0,A (very low risk),0
+594.0,A (very low risk),0
+477.0,E (very high risk),0
+472.0,E (very high risk),1
+533.0,B (low),1
+494.0,D (high),0
+448.0,E (very high risk),1
+591.0,A (very low risk),0
+564.0,A (very low risk),0
+587.0,A (very low risk),0
+549.0,B (low),0
+578.0,A (very low risk),0
+485.0,E (very high risk),0
+465.0,E (very high risk),0
+462.0,E (very high risk),1
+549.0,B (low),0
+509.0,C (medium),1
+563.0,A (very low risk),1
+507.0,C (medium),0
+486.0,D (high),1
+513.0,C (medium),1
+488.0,D (high),1
+492.0,D (high),0
+530.0,C (medium),0
+552.0,B (low),0
+552.0,B (low),0
+488.0,D (high),1
+485.0,E (very high risk),0
+577.0,A (very low risk),0
+492.0,D (high),0
+563.0,A (very low risk),0
+564.0,A (very low risk),1
+491.0,D (high),0
+514.0,C (medium),0
+534.0,B (low),1
+529.0,C (medium),0
+554.0,B (low),0
+526.0,C (medium),0
+518.0,C (medium),0
+533.0,B (low),0
+431.0,E (very high risk),1
+445.0,E (very high risk),1
+544.0,B (low),0
+544.0,B (low),0
+534.0,B (low),0
+525.0,C (medium),0
+533.0,B (low),1
+486.0,D (high),1
+523.0,C (medium),1
+486.0,D (high),1
+497.0,D (high),0
+488.0,D (high),1
+562.0,A (very low risk),0
+490.0,D (high),0
+457.0,E (very high risk),0
+562.0,A (very low risk),0
+470.0,E (very high risk),0
+527.0,C (medium),0
+572.0,A (very low risk),0
+533.0,B (low),0
+526.0,C (medium),0
+464.0,E (very high risk),0
+570.0,A (very low risk),0
+558.0,A (very low risk),0
+488.0,D (high),0
+557.0,A (very low risk),0
+460.0,E (very high risk),1
+514.0,C (medium),0
